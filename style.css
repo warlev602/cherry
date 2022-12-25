@@ -141,14 +141,6 @@ h4 {
 	margin: 7px 0;
 }
 
-h5 {
-	
-}
-
-h6 {
-
-}
-
 /*Lists*/
 ul {
 	list-style-type: disc;
@@ -577,7 +569,7 @@ form.search > input[type=text]:focus {
 
 ul.menu {
 	display: inline-block;
-	float: right;
+	/*float: right;*/
 	margin: 0;
 	padding: 0;
 	list-style: none;
@@ -765,7 +757,7 @@ ul.clock li {
 	margin: 15px 0 0 0;
 	padding: 0;
 	list-style: none;
-	float: left;
+	/*float: left;*/
 }
 
 .social ul li {
